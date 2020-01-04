@@ -1,0 +1,31 @@
+2019/20 Teams 
+
+AFC Bournemouth
+Arsenal
+Aston Villa
+Brighton & Hove Albion
+Burnley
+Chelsea
+Crystal Palace
+Everton
+Leicester City
+Liverpool
+Manchester City
+Manchester United
+Newcastle United
+Norwich City
+Sheffield United
+Southampton
+Tottenham Hotspur
+Watford
+West Ham United
+Wolverhampton Wanderers
+
+Hasthags 
+#AFCB,#BHAFC, #Clarets, #CPFC, #EFC, #HTAFC, #LCFC, #NUFC,#SaintsFC, #SCFC, #Swans, #WatfordFC, #WBA, #WHUFC, #AFC, #MUFC, #LFC, #MCFC,  #CFC,  #COYS
+
+
+consumer_key = 'to9SXQQjhDSOdptpZa5wNKpSO'
+consumer_secret = 'u8XMH5OYc5oQh3igbBO59ZOjQRj9uekUiVNUgdTiTnSewsEdYP'
+access_token = '1205807190361153537-E09RCWOOBynFVofLw61ZfkAun2EgSx'
+access_token_secret = 'aunh6iie4TKVrrcyB2OCCgY1erO1T02z78RM7ZQjMAmzG'
